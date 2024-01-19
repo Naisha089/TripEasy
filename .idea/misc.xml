@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/drawable/ic_baseline_view_sidebar_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_aamnat.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_acpolice.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_akbar_shah.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_cairport.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_chittagong_dash.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_chospitals.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_chotels.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_cities.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_cmalls.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_cpolice.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_credits.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_csightseeing.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dairport.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dhaka_dash.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dhaka_medical.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dhospitals.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dhostitals.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dhotels.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dmalls.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dpolicestations.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dpolishstation.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dresturant.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_dsightseeing.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_kairport.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_khospitals.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_khotels.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_khulna_dash.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_kmalls.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_kpolice.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_ksightseeing.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_logout.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_maps.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_play_videos.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_radisson_bay.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_radisson_blue.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_railway_police.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_range_dig.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_ratargul.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_register.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_rose.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_royal_hos.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_royal_intra.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_rupsha_khan.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_sairport.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_senhati.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_shahid_miner.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_shahjalar.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_sher_bangla_police.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_shimanto.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_shospitals.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_shotels.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_shylet_dash.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_smalls.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_special_num.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_spolice.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_square.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_ssightseeing.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_sundaebans.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_superintendent.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_tourist_police.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_united.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/activity_western_inn.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/headerfile.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/nav_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/row.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/layout/row1.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/menu/sidemenu.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

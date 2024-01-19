@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.app">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App">
+        <activity
+            android:name=".Credits"
+            android:exported="false" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".LifeStyle"
+            android:exported="false"
+            android:label="@string/title_activity_life_style" />
+        <activity
+            android:name=".SM"
+            android:exported="false"
+            android:label="@string/title_activity_sm" />
+        <activity
+            android:name=".KhulnaNewMarket"
+            android:exported="false"
+            android:label="@string/title_activity_khulna_new_market" />
+        <activity
+            android:name=".Joili"
+            android:exported="false"
+            android:label="@string/title_activity_joili" />
+        <activity
+            android:name=".Kshopping"
+            android:exported="false"
+            android:label="@string/title_activity_kshopping" />
+        <activity
+            android:name=".RupshaKhan"
+            android:exported="false"
+            android:label="@string/title_activity_rupsha_khan" />
+        <activity
+            android:name=".Bakultala"
+            android:exported="false"
+            android:label="@string/title_activity_bakultala" />
+        <activity
+            android:name=".Senhati"
+            android:exported="false"
+            android:label="@string/title_activity_senhati" />
+        <activity
+            android:name=".Gallamari"
+            android:exported="false"
+            android:label="@string/title_activity_gallamari" />
+        <activity
+            android:name=".Sundaebans"
+            android:exported="false"
+            android:label="@string/title_activity_sundaebans" />
+        <activity
+            android:name=".IndustrialPolice"
+            android:exported="false"
+            android:label="@string/title_activity_industrial_police" />
+        <activity
+            android:name=".Digholia"
+            android:exported="false"
+            android:label="@string/title_activity_digholia" />
+        <activity
+            android:name=".ShipYeard"
+            android:exported="false"
+            android:label="@string/title_activity_ship_yeard" />
+        <activity
+            android:name=".KDIG"
+            android:exported="false"
+            android:label="@string/title_activity_kdig" />
+        <activity
+            android:name=".RailwayPolice"
+            android:exported="false"
+            android:label="@string/title_activity_railway_police" />
+        <activity
+            android:name=".BasundharaDiagnostic"
+            android:exported="false"
+            android:label="@string/title_activity_basundhara_diagnostic" />
+        <activity
+            android:name=".AuroDiagnostic"
+            android:exported="false"
+            android:label="@string/title_activity_auro_diagnostic" />
+        <activity
+            android:name=".AlFaruk"
+            android:exported="false"
+            android:label="@string/title_activity_al_faruk" />
+        <activity
+            android:name=".Ali"
+            android:exported="false"
+            android:label="@string/title_activity_ali" />
+        <activity
+            android:name=".Apollo"
+            android:exported="false"
+            android:label="@string/title_activity_apollo" />
+        <activity
+            android:name=".HotelCityInn"
+            android:exported="false"
+            android:label="@string/title_activity_hotel_city_inn" />
+        <activity
+            android:name=".WesternInn"
+            android:exported="false"
+            android:label="@string/title_activity_western_inn" />
+        <activity
+            android:name=".RoyalIntra"
+            android:exported="false"
+            android:label="@string/title_activity_royal_intra" />
+        <activity
+            android:name=".CastleSalam"
+            android:exported="false"
+            android:label="@string/title_activity_castle_salam" />
+        <activity
+            android:name=".CityInn"
+            android:exported="false"
+            android:label="@string/title_activity_city_inn" />
+        <activity
+            android:name=".KhanJahanAli"
+            android:exported="false"
+            android:label="@string/title_activity_khan_jahan_ali" />
+        <activity
+            android:name=".Ksightseeing"
+            android:exported="false" />
+        <activity
+            android:name=".Kpolice"
+            android:exported="false" />
+        <activity
+            android:name=".Kairport"
+            android:exported="false" />
+        <activity
+            android:name=".Kmalls"
+            android:exported="false" />
+        <activity
+            android:name=".Khospitals"
+            android:exported="false" />
+        <activity
+            android:name=".Khotels"
+            android:exported="false" />
+        <activity
+            android:name=".Coxbazar"
+            android:exported="false"
+            android:label="@string/title_activity_coxbazar" />
+        <activity
+            android:name=".ShyletRAB"
+            android:exported="false"
+            android:label="@string/title_activity_shylet_rab" />
+        <activity
+            android:name=".ShyletPolice"
+            android:exported="false"
+            android:label="@string/title_activity_shylet_police" />
+        <activity
+            android:name=".Superintendent"
+            android:exported="false"
+            android:label="@string/title_activity_superintendent" />
+        <activity
+            android:name=".RangeDIG"
+            android:exported="false"
+            android:label="@string/title_activity_range_dig" />
+        <activity
+            android:name=".KotwaliPolice"
+            android:exported="false"
+            android:label="@string/title_activity_kotwali_police" />
+        <activity
+            android:name=".Lalakhal"
+            android:exported="false"
+            android:label="@string/title_activity_lalakhal" />
+        <activity
+            android:name=".Dargah"
+            android:exported="false"
+            android:label="@string/title_activity_dargah" />
+        <activity
+            android:name=".Ratargul"
+            android:exported="false"
+            android:label="@string/title_activity_ratargul" />
+        <activity
+            android:name=".Jaflong"
+            android:exported="false"
+            android:label="@string/title_activity_jaflong" />
+        <activity
+            android:name=".Bisnakandi"
+            android:exported="false"
+            android:label="@string/title_activity_bisnakandi" />
+        <activity
+            android:name=".Shisu"
+            android:exported="false"
+            android:label="@string/title_activity_shisu" />
+        <activity
+            android:name=".MotherCare"
+            android:exported="false"
+            android:label="@string/title_activity_mother_care" />
+        <activity
+            android:name=".IbnSina"
+            android:exported="false"
+            android:label="@string/title_activity_ibn_sina" />
+        <activity
+            android:name=".Jalarbad"
+            android:exported="false"
+            android:label="@string/title_activity_jalarbad" />
+        <activity
+            android:name=".HolyDental"
+            android:exported="false"
+            android:label="@string/title_activity_holy_dental" />
+        <activity
+            android:name=".Sultan"
+            android:exported="false"
+            android:label="@string/title_activity_sultan" />
+        <activity
+            android:name=".Bottomhill"
+            android:exported="false"
+            android:label="@string/title_activity_bottomhill" />
+        <activity
+            android:name=".Mira"
+            android:exported="false"
+            android:label="@string/title_activity_mira" />
+        <activity
+            android:name=".Norjahan"
+            android:exported="false"
+            android:label="@string/title_activity_norjahan" />
+        <activity
+            android:name=".Rose"
+            android:exported="false"
+            android:label="@string/title_activity_rose" />
+        <activity
+            android:name=".Eshop"
+            android:exported="false"
+            android:label="@string/title_activity_eshop" />
+        <activity
+            android:name=".NewShamoli"
+            android:exported="false"
+            android:label="@string/title_activity_new_shamoli" />
+        <activity
+            android:name=".Moyeen"
+            android:exported="false"
+            android:label="@string/title_activity_moyeen" />
+        <activity
+            android:name=".GoldemTower"
+            android:exported="false"
+            android:label="@string/title_activity_goldem_tower" />
+        <activity
+            android:name=".Shohir"
+            android:exported="false"
+            android:label="@string/title_activity_shohir" />
+        <activity
+            android:name=".Osmani"
+            android:exported="false"
+            android:label="@string/title_activity_osmani" />
+        <activity
+            android:name=".Spolice"
+            android:exported="false" />
+        <activity
+            android:name=".Sairport"
+            android:exported="false" />
+        <activity
+            android:name=".Shospitals"
+            android:exported="false" />
+        <activity
+            android:name=".Smalls"
+            android:exported="false" />
+        <activity
+            android:name=".Lucky"
+            android:exported="false"
+            android:label="@string/title_activity_lucky" />
+        <activity
+            android:name=".Finlay"
+            android:exported="false"
+            android:label="@string/title_activity_finlay" />
+        <activity
+            android:name=".CentralShop"
+            android:exported="false"
+            android:label="@string/title_activity_central_shop" />
+        <activity
+            android:name=".Ameen"
+            android:exported="false"
+            android:label="@string/title_activity_ameen" />
+        <activity
+            android:name=".Afmi"
+            android:exported="false"
+            android:label="@string/title_activity_afmi" />
+        <activity
+            android:name=".Bayazid"
+            android:exported="false"
+            android:label="@string/title_activity_bayazid" />
+        <activity
+            android:name=".AkbarShah"
+            android:exported="false"
+            android:label="@string/title_activity_akbar_shah" />
+        <activity
+            android:name=".Chwakbazar"
+            android:exported="false"
+            android:label="@string/title_activity_chwakbazar" />
+        <activity
+            android:name=".EPZ"
+            android:exported="false"
+            android:label="@string/title_activity_epz" />
+        <activity
+            android:name=".Kotwali"
+            android:exported="false"
+            android:label="@string/title_activity_kotwali" />
+        <activity
+            android:name=".ethico"
+            android:exported="false"
+            android:label="@string/title_activity_ethico" />
+        <activity
+            android:name=".Sitakunda"
+            android:exported="false"
+            android:label="@string/title_activity_sitakunda" />
+        <activity
+            android:name=".Khoiyachara"
+            android:exported="false"
+            android:label="@string/title_activity_khoiyachara" />
+        <activity
+            android:name=".Chandrath"
+            android:exported="false"
+            android:label="@string/title_activity_chandrath" />
+        <activity
+            android:name=".Patenga"
+            android:exported="false"
+            android:label="@string/title_activity_patenga" />
+        <activity
+            android:name=".Avenue"
+            android:exported="false"
+            android:label="@string/title_activity_avenue" />
+        <activity
+            android:name=".Orchid"
+            android:exported="false"
+            android:label="@string/title_activity_orchid" />
+        <activity
+            android:name=".RadissonBay"
+            android:exported="false"
+            android:label="@string/title_activity_radisson_bay" />
+        <activity
+            android:name=".Agrabad"
+            android:exported="false"
+            android:label="@string/title_activity_agrabad" />
+        <activity
+            android:name=".Peninsula"
+            android:exported="false"
+            android:label="@string/title_activity_peninsula" />
+        <activity
+            android:name=".DeltaHealth"
+            android:exported="false"
+            android:label="@string/title_activity_delta_health" />
+        <activity
+            android:name=".LoinsEye"
+            android:exported="false"
+            android:label="@string/title_activity_loins_eye" />
+        <activity
+            android:name=".DentalCollege"
+            android:exported="false"
+            android:label="@string/title_activity_dental_college" />
+        <activity
+            android:name=".RoyalHos"
+            android:exported="false"
+            android:label="@string/title_activity_royal_hos" />
+        <activity
+            android:name=".MemonMarternity"
+            android:exported="false"
+            android:label="@string/title_activity_memon_marternity" />
+        <activity
+            android:name=".Aamnat"
+            android:exported="false"
+            android:label="@string/title_activity_aamnat" />
+        <activity
+            android:name=".Ssightseeing"
+            android:exported="false" />
+        <activity
+            android:name=".Shotels"
+            android:exported="false" />
+        <activity
+            android:name=".Cmalls"
+            android:exported="false" />
+        <activity
+            android:name=".Cairport"
+            android:exported="false" />
+        <activity
+            android:name=".Csightseeing"
+            android:exported="false" />
+        <activity
+            android:name=".Chospitals"
+            android:exported="false" />
+        <activity
+            android:name=".Cpolice"
+            android:exported="false" />
+        <activity
+            android:name=".Chotels"
+            android:exported="false" />
+        <activity
+            android:name=".Dhotels"
+            android:exported="false" />
+        <activity
+            android:name=".ACPolice"
+            android:exported="false"
+            android:label="@string/title_activity_acpolice" />
+        <activity
+            android:name=".touristPolice"
+            android:exported="false"
+            android:label="@string/title_activity_tourist_police" />
+        <activity
+            android:name=".sherBanglaPolice"
+            android:exported="false"
+            android:label="@string/title_activity_sher_bangla_police" />
+        <activity
+            android:name=".hatirjilPolice"
+            android:exported="false"
+            android:label="@string/title_activity_hatirjil_police" />
+        <activity
+            android:name=".Shahjalar"
+            android:exported="false"
+            android:label="@string/title_activity_shahjalar" />
+        <activity
+            android:name=".Dpolicestations"
+            android:exported="false" />
+        <activity
+            android:name=".Dsightseeing"
+            android:exported="false" />
+        <activity
+            android:name=".Dairport"
+            android:exported="false" />
+        <activity
+            android:name=".PolicePlaza"
+            android:exported="false"
+            android:label="@string/title_activity_police_plaza" />
+        <activity
+            android:name=".Shimanto"
+            android:exported="false"
+            android:label="@string/title_activity_shimanto" />
+        <activity
+            android:name=".NewMarket"
+            android:exported="false"
+            android:label="@string/title_activity_new_market" />
+        <activity
+            android:name=".Jamuna"
+            android:exported="false"
+            android:label="@string/title_activity_jamuna" />
+        <activity
+            android:name=".BashudaraCity"
+            android:exported="false"
+            android:label="@string/title_activity_bashudara_city" />
+        <activity
+            android:name=".Dhakashwari"
+            android:exported="false"
+            android:label="@string/title_activity_dhakashwari" />
+        <activity
+            android:name=".ShahidMiner"
+            android:exported="false"
+            android:label="@string/title_activity_shahid_miner" />
+        <activity
+            android:name=".LalbagFort"
+            android:exported="false"
+            android:label="@string/title_activity_lalbag_fort" />
+        <activity
+            android:name=".Sonargaon"
+            android:exported="false"
+            android:label="@string/title_activity_sonargaon" />
+        <activity
+            android:name=".AhsanManzil"
+            android:exported="false"
+            android:label="@string/title_activity_ahsan_manzil" />
+        <activity
+            android:name=".United"
+            android:exported="false"
+            android:label="@string/title_activity_united" />
+        <activity
+            android:name=".DhakaMedical"
+            android:exported="false"
+            android:label="@string/title_activity_dhaka_medical" />
+        <activity
+            android:name=".EverCare"
+            android:exported="false"
+            android:label="@string/title_activity_ever_care" />
+        <activity
+            android:name=".PG"
+            android:exported="false"
+            android:label="@string/title_activity_pg" />
+        <activity
+            android:name=".Square"
+            android:exported="false"
+            android:label="@string/title_activity_square" />
+        <activity
+            android:name=".Dhostitals"
+            android:exported="false" />
+        <activity
+            android:name=".Dmalls"
+            android:exported="false" />
+        <activity
+            android:name=".PamPacificSonargong"
+            android:exported="false"
+            android:label="@string/title_activity_pam_pacific_sonargong" />
+        <activity
+            android:name=".RadissonBlue"
+            android:exported="false"
+            android:label="@string/title_activity_radisson_blue" />
+        <activity
+            android:name=".SixSeasonsHotel"
+            android:exported="false"
+            android:label="@string/title_activity_six_seasons_hotel" />
+        <activity
+            android:name=".DoreenHotel"
+            android:exported="false"
+            android:label="@string/title_activity_doreen_hotel" />
+        <activity
+            android:name=".Dresturant"
+            android:exported="false" />
+        <activity
+            android:name=".Dpolishstation"
+            android:exported="false" />
+        <activity
+            android:name=".Dhospitals"
+            android:exported="false" />
+        <activity
+            android:name=".LaMeridan"
+            android:exported="false"
+            android:label="@string/title_activity_la_meridan" />
+        <activity
+            android:name=".KhulnaDash"
+            android:exported="false" />
+        <activity
+            android:name=".ShyletDash"
+            android:exported="false" />
+        <activity
+            android:name=".ChittagongDash"
+            android:exported="false" />
+        <activity
+            android:name=".DhakaDash"
+            android:exported="false" />
+        <activity
+            android:name=".Cities"
+            android:exported="false" />
+        <activity
+            android:name=".MapsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".PlayVideos"
+            android:exported="false" />
+        <activity
+            android:name=".Logout"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".SpecialNum"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
